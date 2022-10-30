@@ -1,0 +1,10 @@
+.heading{
+    font-size: 50px;
+    font-style: oblique;
+    background-color: aquamarine;
+}
+body{
+    background-color: rgb(151, 190, 235);
+    text-decoration-color: aliceblue;
+    font-size: medium;
+}
